@@ -9,6 +9,7 @@ to be used in [Code Blcoks](www.codeblocks.org).
 Note that, all the nodes from **fortran_colortheme.conf** shall be copied to **default.conf**
 * Open Code::Blocks
 * From **Settings menu**, choose  **Editor...** and then **Syntax highlighting**. Select the **color theme** drop down menu and choose dark or gray theme!
+* The below screenshots uses the "consolas" regular size 10 font [from Editor/General Settings/Editor Settings/Font]
 
 
 
