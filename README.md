@@ -7,3 +7,14 @@ to be used in [Code Blcoks](www.codeblocks.org).
 For installation take a look at: [Change Editor Theme for Code::Blocks ](https://medium.com/@yzhong.cs/change-editor-theme-for-code-blocks-windows-linux-mac-92e9c15cbca4)
 
 Note that, all the nodes shall be copied in code blocks **default.conf**
+
+## Screenshot
+
+**Dark theme**
+
+![dark theme](dark-theme-fortran-cb.png)
+
+
+**Gray theme**
+
+![gray theme](gray-theme-fortran-cb.png)
