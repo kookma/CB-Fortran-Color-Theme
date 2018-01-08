@@ -18,4 +18,10 @@ This excel file is a macro-enabled and can export your color setting into a csv 
 to be used above.
 Excel file: CB_Fortran_ColorTheme_Maker.xlsm
 
+## Screenshot
+
+**Excel sheet for automatic generation of csv**
+
+![Excel_Theme_Maker_CB_Fortran](colortheme_maker.png)
+
 
