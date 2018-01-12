@@ -22,6 +22,6 @@ Excel file: CB_Fortran_ColorTheme_Maker.xlsm
 
 **Excel sheet for automatic generation of csv**
 
-![Excel_Theme_Maker_CB_Fortran](colortheme_maker.png)
+![Excel_Theme_Maker_CB_Fortran](img/colour_theme_maker_excel.png)
 
 
