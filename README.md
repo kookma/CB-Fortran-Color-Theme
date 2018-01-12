@@ -11,6 +11,11 @@ Note that, all the nodes from **fortran_colorthemes.conf** shall be copied to **
 * From **Settings menu**, choose  **Editor...** and then **Syntax highlighting**. Select the **color theme** drop down menu and choose dark or gray theme!
 * The below screenshots uses the "consolas" regular size 10 font [from Editor/General Settings/Editor Settings/Font]
 
+## Important note
+Some theme names and color specification are borrowed from
+[Eclipse Themes](http://www.eclipsecolorthemes.org/)
+
+License: MIT
 
 
 ## Screenshot
